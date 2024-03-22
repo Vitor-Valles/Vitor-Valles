@@ -1,5 +1,5 @@
 
-<center> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Valles&theme=holi&show_icons=true) </center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Valles&theme=holi&show_icons=true) 
 
 - 🔭 I’m currently working on Tech degree on IT
 - 🌱 I’m currently learning HTML and CSS, besides logic using Portugol Studio
