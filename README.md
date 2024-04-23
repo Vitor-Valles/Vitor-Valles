@@ -26,6 +26,6 @@
   
 - 🔭 I’m currently working on Tech degree on IT
 - 🌱 I’m currently learning HTML and CSS, besides logic using Portugol Studio
-- 💬 Ask me about little known countries and their capital
+- 💬 Ask me about little known countries
 - 😄 Pronouns: he/him
 
