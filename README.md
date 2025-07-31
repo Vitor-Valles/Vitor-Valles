@@ -1,32 +1,24 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Vitor+Valles)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Vitor-Valles</h1>
+<h3 align="center">CyberSecurity Student</h3>
 
-<div align="center" style="margin-bottom:200px">
-<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Vitor-Valles&theme=holi&show_icons=true)" /> 
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Valles&layout=compact&theme=holi" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorvalles&label=Profile%20views&color=0e75b6&style=flat" alt="vitorvalles" /> </p>
 
+- 🌱 I’m currently learning **Python**
 
-<br>
+- 💬 Ask me about **Everthing about history**
 
-## Language and Tools
+- 📫 How to reach me **Vitorvalles25@gmail.com**
 
+- ⚡ Fun fact **I really like Russia**
 
-#### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://developer.mozilla.org/en-US/docs/Web/PYTHON)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/javascript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://developer.mozilla.org/en-US/docs/Web/php)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vitor andrade valles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor andrade valles" height="30" width="40" /></a>
+</p>
 
-#### Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorvalles&show_icons=true&locale=en&layout=compact" alt="vitorvalles" /></p>
 
-  
-- 🔭 I’m currently working on Tech degree on IT
-- 🌱 I’m currently learning HTML and CSS, besides logic using Portugol Studio
-- 💬 Ask me about little known countries
-- 😄 Pronouns: he/him
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorvalles&show_icons=true&locale=en" alt="vitorvalles" /></p>
